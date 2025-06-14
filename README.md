@@ -1,4 +1,4 @@
-# JustCookie 🟩🍪
+# CookieClicker 🟩🍪
 
 JustCookie est une application Python simple utilisant **Tkinter**, conçue pour tester votre vitesse de clic en 10 secondes. À la fin du compte à rebours, votre score est enregistré et comparé aux anciens résultats.
 
